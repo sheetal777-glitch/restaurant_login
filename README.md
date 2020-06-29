@@ -1,5 +1,8 @@
 # restaurant_login
 
 ## Screenshots
-![](res1.jpg)
-![](res2.jpg)
+# screenshot 1
+<img src="res1.jpg" width="350">
+
+# screenshot 2
+<img src="res2.jpg" width="350">
